@@ -8,7 +8,7 @@
 #ifndef CCD_TYPES_H_
 #define CCD_TYPES_H_
 
-#include <cstdint>
+#include <tr1/cstdint>
 #include <vector>
 #include <map>
 
